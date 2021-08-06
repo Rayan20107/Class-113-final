@@ -1,0 +1,20 @@
+.div_item
+{
+    box-shadow: 5px 5px 5px grey;
+    background-color: white;
+    color: red;
+    float: none;
+    text-align: center;
+}
+
+body
+{
+color: red;
+text-align: center;
+background: white;
+}
+
+img
+{
+    width: 250px;
+}
